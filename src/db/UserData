@@ -1,0 +1,8 @@
+Username||password||Name||Email||Phone||Category
+Steve||abc123||Steve Rogers||steve@example.com||||student
+Walter||xyz789||Walter White||walter@example.com||||student
+Heisenberg||EE||Mr. Heisenberg||heisenberg@example.com||||faculty
+alice||stu321||Alice Green||alice@example.com||||staff
+charlie||xyz123||Charlie Brown||charlie@example.com||0555555555||Faculty
+david||ten12||David Wilson||david@example.com||0500000000||Student
+u_9040040||validPass||Test User||test@test.com||1234567890||Student

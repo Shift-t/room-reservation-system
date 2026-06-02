@@ -1,0 +1,16 @@
+(date,timeSlot,floor,room,username,reason,status)
+2025-05-26,9AM,1,107,Steve,I wanna study,R
+2025-05-10,2PM,2,203,Walter,play games,R
+2025-05-17,4PM,3,307,Heisenberg,watch instagram,P
+2025-05-15,3PM,2,206,Steve,im just bored,R
+2025-05-22,11AM,1,105,Walter,hold a quiz,R
+2025-05-26,9AM,1,106,Steve,I need to study,R
+2025-05-10,7AM,1,105,Walter,Go to class,P
+2025-05-10,7AM,1,103,Heisenberg,Class with Prof. Smith,P
+2025-05-10,7AM,1,109,Steve,LeetCode,P
+2025-05-10,7AM,1,104,Walter,study fr fr,P
+2025-05-31,8AM,2,202,Steve,playing games,P
+2025-05-31,7AM,1,103,Heisenberg,unavailable,P
+2026-07-01,9AM,2,204,user_1780309040205,Study group,P
+2026-07-03,9AM,2,204,user_1780309040205,Study session 3,P
+2026-07-02,10AM,2,204,user_1780309040205,Study session 2,P

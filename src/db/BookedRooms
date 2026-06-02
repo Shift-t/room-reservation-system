@@ -1,0 +1,17 @@
+(Date,timeSlot,floor,room,username)
+2025-05-01,7AM,3,305,Steve
+2025-04-29,11AM,2,204,Walter
+2025-05-23,10AM,3,306,Heisenberg
+2025-05-01,9AM,2,207,Walter
+2025-05-21,1PM,2,209,Heisenberg
+2025-05-13,8AM,3,303,Steve
+2025-05-07,10AM,1,102,Walter
+2025-05-10,2PM,2,205,Heisenberg
+2025-05-15,11AM,3,307,Steve
+2025-05-17,3PM,1,108,Heisenberg
+2025-05-19,9AM,2,201,Walter
+2025-05-22,4PM,3,305,Steve
+2025-05-25,7AM,1,103,Heisenberg
+2025-05-10,7AM,1,106,Walter
+2025-05-10,7AM,1,102,Steve
+2025-05-10,7AM,1,108,alice
